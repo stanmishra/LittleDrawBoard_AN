@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LittleDrawBoard-Master_an.iml" filepath="$PROJECT_DIR$/LittleDrawBoard-Master_an.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LittleDrawBoard_AN.iml" filepath="$PROJECT_DIR$/.idea/LittleDrawBoard_AN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LittleDrawBoard_AN.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LittleDrawBoard_AN.app.iml" />
     </modules>
   </component>
 </project>

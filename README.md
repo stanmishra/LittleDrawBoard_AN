@@ -28,3 +28,39 @@ step5：点击链接，成功后开始同步绘制。
 
 ## 联系 ##
 617913246@qq.com
+
+
+
+
+
+
+LittleDrawBoard_AN ##
+
+**LittleDrawBoard** Android end is based on **Socket** to realize the android end and PC end synchronous drawing board;<br />
+[PC end source code address](https://github.com/SmallStoneDD/LittleDrawBoard_PC)
+
+### development tools ###
+-Use [Android Studio](http://www.android-studio.org/) on the android side
+-Use on PC [IntelliJ IDEA](http://www.jetbrains.com/idea/)
+
+
+### The main function ###
+
+
+-PC drawing board drawing, andorid drawing board synchronization;
+-Drawing on the drawing board on the android end, and syncing on the drawing board on the PC end;
+-Basic functions of drawing board (shape, eraser, redo, undo)
+
+
+### Preview ###
+If you can’t preview, click on the blank space to open in a new page
+![](http://i4.buimg.com/1949/8020fd4ea461a012.gif)
+### Steps for usage ###
+step1: Ensure that the phone and computer are in the same network environment;<br />
+step2: Obtain the ipv4 address on the PC;<br />
+step3: First open the PC program;<br />
+step4: Open the android program and fill in the ip address obtained in step2;<br />
+step5: Click on the link and start to draw synchronously after success.
+
+## connect ##
+617913246@qq.com
